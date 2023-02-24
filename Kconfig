@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_RECORD
+	bool "record"
+	default n
+	---help---
+		Enable support for reinforcement learning flight controller
